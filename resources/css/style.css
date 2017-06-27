@@ -7,6 +7,10 @@ background-color: black;
   text-align: center;
 }
 
-flex-container {
+.flex-container {
   display: inline-flex;
+}
+
+span {
+  justify-content: flex-end;
 }
